@@ -190,7 +190,7 @@ As I mentioned before, different lows applies to different countries. Even withi
 Since our group will have to comply with the Victorian laws we are now following the [Consumer Affair Victoria](https://www.consumer.vic.gov.au/clubs-and-fundraising/incorporated-associations/become-an-incorporated-association) rules. It was easy enough for us with no law background to understand what steps to take.
 
 
-# Become a speaker! - Howourto contact us
+# Become our speaker! - How to contact us
 
 
 We are always looking for new speakers for seminars, workshops, other ideas! If you have an idea for an event and you want to share it with us and other R passionate, we would love to hear from you! 
@@ -203,7 +203,10 @@ You can use any of the means below to contact us!
 * `r icon::fa("facebook",colour = "#88398A")` https://www.facebook.com/RladiesMelbourne/
 * Email: melbourne@rladies.org
 
-# Read what you can gain from being our speaker!
+
+# Testimonial from a past speaker: Belinda Maher
+
+
 
 Belinda Maher was our speaker in [February 2018](https://www.youtube.com/watch?v=84G6ZNTEHCo&t=345s) and we also invited her for the panel discussion in October. Below you can find Belinda's thoughts on how being a speaker at our event helped her gaining confidence in herself and her skills!
 
@@ -213,4 +216,5 @@ Belinda Maher was our speaker in [February 2018](https://www.youtube.com/watch?v
 # References
 
 To produce this document I used some of the tips in [Pimp my Rmd](https://holtzy.github.io/Pimp-my-rmd/#use_dt_for_tables) by [Yan Holtz](https://github.com/holtzy)
+
 
