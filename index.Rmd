@@ -186,11 +186,33 @@ As I mentioned before, different lows applies to different countries. Even withi
 Since our group will have to comply with the Victorian laws we are now following the [Consumer Affair Victoria](https://www.consumer.vic.gov.au/clubs-and-fundraising/incorporated-associations/become-an-incorporated-association) rules. It was easy enough for us with no law background to understand what steps to take.
 
 
-# How to find us
+# Become a speaker! - How to contact us
 
-I will conclude by remembering all the ways in which you can get in contact with us and know about our events!
+
+We are always looking for new speakers for seminars, workshops, other ideas! If you have an idea for an event and you want to share it with us and other R passionate, we would love to hear from you! 
+
+You can use any of the means below to contact us!
 
 * `r icon::fa("twitter",colour = "#88398A")` https://twitter.com/RLadiesMelb
 * `r icon::fa("github",colour = "#88398A")` https://github.com/R-LadiesMelbourne
 * `r icon::fa("meetup",colour = "#88398A")` https://www.meetup.com/R-Ladies-Melbourne/
 * `r icon::fa("facebook",colour = "#88398A")` https://www.facebook.com/RladiesMelbourne/
+* Email: melbourne@rladies.org
+
+## Read what you can gain from being our speaker!
+
+Belinda Maher was our speaker in [February 2018](https://www.youtube.com/watch?v=84G6ZNTEHCo&t=345s) and we also invited her for the panel discussion in October. Below you can find Belinda's thoughts on how being a speaker at our event helped her gaining confidence in herself and her skills!
+
+
+
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/mingabelle?ref_src=twsrc%5Etfw">@mingabelle</a> &#39;s first attempt of using <a href="https://twitter.com/hashtag/ggplpt2?src=hash&amp;ref_src=twsrc%5Etfw">#ggplpt2</a> in R for plotting <a href="https://twitter.com/hashtag/publicTransport?src=hash&amp;ref_src=twsrc%5Etfw">#publicTransport</a> data @RLadiesAU <a href="https://t.co/UKyYxDaqVH">pic.twitter.com/UKyYxDaqVH</a></p>&mdash; Momeneh Foroutan (@S_Foroutan) <a href="https://twitter.com/S_Foroutan/status/962953463549194240?ref_src=twsrc%5Etfw">February 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+*Presenting at R Ladies helped me to consider the audience's point of view: to think about exactly what was interesting and important about my work, and what needed further explanation for an audience who are not already familiar with the topic. I also gained presenting experience and had to think about how to change the content of my presentation to suit a less transport-focused audience than I am used to. While I notice that I sounded nervous at the start of my presentation, I would not hesitate to present my work again to a large group. The success of the presentation gave me confidence that I am quite capable of presenting and that it won’t be a disaster! Confidence that I will actually probably get good feedback if I present again. I discovered that it’s quite easy to talk about something which you’re passionate about. The networking opportunities which speaking at R Ladies has given me have also been a bonus. It’s nice also casually drop in to conversation when talking about my work: "oh, I did a presentation on that to 70 people at a user group, it’s on YouTube!"*
+ 
+
+
+Anna Quaglieri
